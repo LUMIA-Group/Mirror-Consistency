@@ -1,0 +1,4 @@
+Solve the following problem step by step. Begin each step with "Step :" and ensure each step is separated by "\n\n". Conclude with the phrase "So the answer is", followed by the answer.
+Q: [QUESTION]
+
+A:

@@ -1,0 +1,9 @@
+Given two candidate solutions for a question, carefully analyze and compare the differences in their reasoning steps. Consider: 1: The specific differences in their reasoning steps and final answers; 2: The reasons behind these disparities.
+
+Question: [QUESTION]
+Two solutions : 
+Solution 1: [CUR-SELECTED-RESPONSE]
+Solution 2: [CANDIDATE]
+
+If no differences exist, output <STOP!>
+If differences are identified, describe them, determine errors, and explain why. Extract a key suggestion to prevent such errors. Begin the suggestion with <SUGGESTION>.
